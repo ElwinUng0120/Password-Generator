@@ -8,8 +8,8 @@ Goal: To make a password generator in javascript with the following abilities:
 <br>
 
 This generator contains the following:
-- index.html: The front page of the password generator written in **HTML 5**
-- script.js: The brain behind the generator written with **Bootstrap**
+- index.html: The front page of the password generator written in **HTML 5** and **Bootstrap**
+- script.js: The brain behind the generator
 - style.css: Styling for the page and contains **Media Queries** for window size of 690px/500px
 
 # index.html
@@ -19,8 +19,8 @@ This generator contains the following:
 
 ## When input for password length is invalid
 <img src="./img/readme/invalidLength.jpg" alt="Error catching (Length) showcase" style="margin-left: auto; margin-right: auto" />
-<img src="./img/readme/invalidLength_output.jpg" alt="EC output (Length) showcase" style="margin-left: auto; margin-right: auto" />
 <img src="./img/readme/invalidLength_output2.jpg" alt="EC output2 (Length) showcase" style="margin-left: auto; margin-right: auto" />
+<img src="./img/readme/invalidLength_output.jpg" alt="EC output (Length) showcase" style="margin-left: auto; margin-right: auto" />
 
 <br>
 
