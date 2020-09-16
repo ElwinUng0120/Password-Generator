@@ -19,8 +19,8 @@ This generator contains the following:
 
 ## When input for password length is invalid
 <img src="./img/readme/invalidLength.jpg" alt="Error catching (Length) showcase" style="margin-left: auto; margin-right: auto" />
-<img src="./img/readme/invalidLength_output.jpg" alt="EC output (Length) showcase" style="margin-left: auto; margin-right: auto" />
 <img src="./img/readme/invalidLength_output2.jpg" alt="EC output2 (Length) showcase" style="margin-left: auto; margin-right: auto" />
+<img src="./img/readme/invalidLength_output.jpg" alt="EC output (Length) showcase" style="margin-left: auto; margin-right: auto" />
 
 <br>
 
