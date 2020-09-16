@@ -8,8 +8,8 @@ Goal: To make a password generator in javascript with the following abilities:
 <br>
 
 This generator contains the following:
-- index.html: The front page of the password generator written in **HTML 5**
-- script.js: The brain behind the generator written with **Bootstrap**
+- index.html: The front page of the password generator written in **HTML 5** and **Bootstrap**
+- script.js: The brain behind the generator
 - style.css: Styling for the page and contains **Media Queries** for window size of 690px/500px
 
 # index.html
