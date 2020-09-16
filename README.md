@@ -17,14 +17,14 @@ This generator contains the following:
 
 <br>
 
-## When input for password length is invalid, an error message will be printed to the screen
+### When input for password length is invalid, an error message will be printed to the screen
 <img src="./img/readme/invalidLength.jpg" alt="Error catching (Length) showcase" style="margin-left: auto; margin-right: auto" />
 <img src="./img/readme/invalidLength_output2.jpg" alt="EC output2 (Length) showcase" style="margin-left: auto; margin-right: auto" />
 <img src="./img/readme/invalidLength_output.jpg" alt="EC output (Length) showcase" style="margin-left: auto; margin-right: auto" />
 
 <br>
 
-## When no criterias were selected, a default password of 0's with the length defined by user will be printed
+### When no criterias were selected, a default password of 0's with the length defined by user will be printed
 <img src="./img/readme/noCriterias.jpg" alt="Error catching (Criterias).html showcase" style="margin-left: auto; margin-right: auto" />
 <img src="./img/readme/noCriterias_output.jpg" alt="EC output (Criterias) showcase" style="margin-left: auto; margin-right: auto" />
 
